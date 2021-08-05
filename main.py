@@ -1,4 +1,3 @@
-```py
 import random, string
 
 amount = int(input('Üretilecek kod sayısını gir: '))
@@ -10,4 +9,3 @@ while value <= amount:
     f.close()
     print(f'[ÜRETİLDİ] {code}')
     value += 1
-    ```
